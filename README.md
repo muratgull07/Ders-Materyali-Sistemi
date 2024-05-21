@@ -1,3 +1,6 @@
+Bu proje, oyun koleksiyonlarını yönetmek için Python ile geliştirilmiş bir sistemdir. Kullanıcılar, sahip oldukları oyunları sisteme kaydedebilir, oyunların detaylarını görüntüleyebilir ve koleksiyonlarını organize edebilirler. Sistem, oyun adı, türü, platformu gibi bilgilerin kaydedilmesine olanak tanır. Ayrıca, kullanıcılar oyun koleksiyonlarını kolayca güncelleyebilir ve arayüz üzerinden oyunlarını listeleyebilir.
+
+
 ![Eğitim Materyali Paylaşım Platformu 6 05 2024 16_03_27](https://github.com/muratgull07/Ders-Materyali-Sistemi/assets/148050387/a275a3f8-c87a-4a62-8b91-574a05c8c049)
 
 Arayüz.
