@@ -1,5 +1,4 @@
-Bu proje, oyun koleksiyonlarını yönetmek için Python ile geliştirilmiş bir sistemdir. Kullanıcılar, sahip oldukları oyunları sisteme kaydedebilir, oyunların detaylarını görüntüleyebilir ve koleksiyonlarını organize edebilirler. Sistem, oyun adı, türü, platformu gibi bilgilerin kaydedilmesine olanak tanır. Ayrıca, kullanıcılar oyun koleksiyonlarını kolayca güncelleyebilir ve arayüz üzerinden oyunlarını listeleyebilir.
-
+Bu proje, Python ile geliştirilmiş bir online eğitim platformu sistemidir. Kullanıcılar, eğitim materyallerine erişebilir, dersler oluşturabilir ve öğrencilerle etkileşim kurabilirler. Sistem, eğitmenlerin ders içeriklerini yüklemesine ve yönetmesine olanak tanırken, öğrenciler de bu derslere kaydolabilir ve ilerlemelerini takip edebilirler. Eğitim ve öğrenme süreçlerini dijital ortamda etkin bir şekilde yönetmek için tasarlanmıştır.
 
 ![Eğitim Materyali Paylaşım Platformu 6 05 2024 16_03_27](https://github.com/muratgull07/Ders-Materyali-Sistemi/assets/148050387/a275a3f8-c87a-4a62-8b91-574a05c8c049)
 
